@@ -1,3 +1,3 @@
 # Portfolio Management Dashboard using Excel
 
-Main functions used in this project: Vlookup, Index, SumIf, Pivot Table
+Main functions used in this project: Vlookup, Index Match, SumIf, Pivot Table
